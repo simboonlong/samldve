@@ -1,3 +1,3 @@
 # Samuel Huang, Motion Designer
 
-- portfolio website (http://www.samldve.com/)
+- portfolio website (http://samldve.com/)
