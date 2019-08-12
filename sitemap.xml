@@ -1,55 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>http://samldve.com/about.html</loc>
-    <lastmod>2019-08-01T15:56:57.390Z</lastmod>
+    
+        <loc>http://samldve.com/about.html</loc>
+    
+    
+        <lastmod>2019-08-01T15:56:57.390Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/craft.html</loc>
-    <lastmod>2019-05-27T14:46:03.691Z</lastmod>
+    
+        <loc>http://samldve.com/craft.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:46:03.691Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/</loc>
-    <lastmod>2019-05-27T14:46:15.765Z</lastmod>
+    
+        <loc>http://samldve.com/</loc>
+    
+    
+        <lastmod>2019-05-27T14:46:15.765Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/comedy-central-asia-channel-idents.html</loc>
-    <lastmod>2019-05-27T14:45:11.910Z</lastmod>
+    
+        <loc>http://samldve.com/work/comedy-central-asia-channel-idents.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:11.910Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/dita-audio.html</loc>
-    <lastmod>2019-05-27T14:45:16.273Z</lastmod>
+    
+        <loc>http://samldve.com/work/dita-audio.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:16.273Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/foodcinema-cinema-teaser.html</loc>
-    <lastmod>2019-05-27T14:45:20.490Z</lastmod>
+    
+        <loc>http://samldve.com/work/foodcinema-cinema-teaser.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:20.490Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/gma27-nomination-bumpers.html</loc>
-    <lastmod>2019-05-27T14:45:24.205Z</lastmod>
+    
+        <loc>http://samldve.com/work/gma27-nomination-bumpers.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:24.205Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/</loc>
-    <lastmod>2019-05-27T14:44:34.326Z</lastmod>
+    
+        <loc>http://samldve.com/work/</loc>
+    
+    
+        <lastmod>2019-05-27T14:44:34.326Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/reel-2018-extended.html</loc>
-    <lastmod>2019-05-27T14:45:33.602Z</lastmod>
+    
+        <loc>http://samldve.com/work/reel-2018-extended.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:33.602Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/spongebob-kitchen-secrets-mr-krabs.html</loc>
-    <lastmod>2019-05-27T14:45:37.358Z</lastmod>
+    
+        <loc>http://samldve.com/work/spongebob-kitchen-secrets-mr-krabs.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:37.358Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/the-anatomy-of-a-building.html</loc>
-    <lastmod>2019-05-27T14:45:41.388Z</lastmod>
+    
+        <loc>http://samldve.com/work/the-anatomy-of-a-building.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:41.388Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/uber-driver-key-visuals.html</loc>
-    <lastmod>2019-05-27T14:45:45.531Z</lastmod>
+    
+        <loc>http://samldve.com/work/uber-driver-key-visuals.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:45.531Z</lastmod>
+    
   </url>
   <url>
-    <loc>http://samldve.com/work/uber-eats-st-jerome-laneway-festival.html</loc>
-    <lastmod>2019-05-27T14:45:49.955Z</lastmod>
+    
+        <loc>http://samldve.com/work/uber-eats-st-jerome-laneway-festival.html</loc>
+    
+    
+        <lastmod>2019-05-27T14:45:49.955Z</lastmod>
+    
   </url>
 </urlset>
